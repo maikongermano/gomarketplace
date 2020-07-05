@@ -18,8 +18,8 @@ A ideia é simular uma loja fictícia, trazendo dados de uma Fake API e integrar
 React ⚛️ <br />
 React Native ⚛️ <br />
 React Navigation ⚛️ <br />
-Styled-Components ⚛️💅🏻 <br />
-React Icons ⚛️❤️ <br />
+Styled-Components ⚛️💅 <br />
+React Icons ⚛️ <br />
 Typescript 🦕
 
 # Como obter esse repositório?
